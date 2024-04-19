@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SintaxeEIdentaçao.Models;
+
+Pessoa p = new Pessoa();
+
+p.Nome = "Manoel";
+p.Idade = 19;
+p.Apresentar();

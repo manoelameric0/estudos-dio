@@ -1,12 +1,18 @@
-﻿namespace SintaxeEIdentação;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-public class Pessoa
+namespace SintaxeEIdentaçao.Models
 {
-    public string Nome { get; set; }
-    public int Idade { get; set; }
-
-    public void Apresentaçao()
+    public class Pessoa
     {
-        Console.WriteLine($"Olá, me chamo {Nome} e tenho {Idade} anos");
+        public string Nome { get; set; }
+        public int Idade { get; set; }
+
+        public void Apresentar()
+        {
+            Console.WriteLine($"Olá, me chamo {Nome} e tenho {Idade} anos");
+        }
     }
 }
