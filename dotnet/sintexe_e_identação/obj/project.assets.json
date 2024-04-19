@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\exemplosfundamentos\\exemplosfundamentos.csproj",
-      "projectName": "exemplosfundamentos",
-      "projectPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\exemplosfundamentos\\exemplosfundamentos.csproj",
+      "projectUniqueName": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\sintexe_e_identação\\sintexe_e_identação.csproj",
+      "projectName": "sintexe_e_identação",
+      "projectPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\sintexe_e_identação\\sintexe_e_identação.csproj",
       "packagesPath": "C:\\Users\\082Mcz\\.nuget\\packages\\",
-      "outputPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\exemplosfundamentos\\obj\\",
+      "outputPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\sintexe_e_identação\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\082Mcz\\AppData\\Roaming\\NuGet\\NuGet.Config"

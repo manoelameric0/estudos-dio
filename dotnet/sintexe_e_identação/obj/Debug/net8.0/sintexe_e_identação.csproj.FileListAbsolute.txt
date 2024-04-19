@@ -1,0 +1,15 @@
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\bin\Debug\net8.0\sintexe_e_identação.exe
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\bin\Debug\net8.0\sintexe_e_identação.deps.json
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\bin\Debug\net8.0\sintexe_e_identação.runtimeconfig.json
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\bin\Debug\net8.0\sintexe_e_identação.dll
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\bin\Debug\net8.0\sintexe_e_identação.pdb
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.AssemblyInfoInputs.cache
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.AssemblyInfo.cs
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.csproj.CoreCompileInputs.cache
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.sourcelink.json
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.dll
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\refint\sintexe_e_identação.dll
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.pdb
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\sintexe_e_identação.genruntimeconfig.cache
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\sintexe_e_identação\obj\Debug\net8.0\ref\sintexe_e_identação.dll
