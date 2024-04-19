@@ -1,0 +1,15 @@
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\bin\Debug\net8.0\D001.exe
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\bin\Debug\net8.0\D001.deps.json
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\bin\Debug\net8.0\D001.runtimeconfig.json
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\bin\Debug\net8.0\D001.dll
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\bin\Debug\net8.0\D001.pdb
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.GeneratedMSBuildEditorConfig.editorconfig
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.AssemblyInfoInputs.cache
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.AssemblyInfo.cs
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.csproj.CoreCompileInputs.cache
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.sourcelink.json
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.dll
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\refint\D001.dll
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.pdb
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\D001.genruntimeconfig.cache
+B:\Documents\estudos DIO - com git\estudos-dio\dotnet\DesafiosTreinos\D001\obj\Debug\net8.0\ref\D001.dll
