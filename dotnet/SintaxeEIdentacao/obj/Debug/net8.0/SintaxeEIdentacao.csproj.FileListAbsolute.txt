@@ -1,0 +1,15 @@
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/bin/Debug/net8.0/SintaxeEIdentacao
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/bin/Debug/net8.0/SintaxeEIdentacao.deps.json
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/bin/Debug/net8.0/SintaxeEIdentacao.runtimeconfig.json
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/bin/Debug/net8.0/SintaxeEIdentacao.dll
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/bin/Debug/net8.0/SintaxeEIdentacao.pdb
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.AssemblyInfoInputs.cache
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.AssemblyInfo.cs
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.csproj.CoreCompileInputs.cache
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.sourcelink.json
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.dll
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/refint/SintaxeEIdentacao.dll
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.pdb
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/SintaxeEIdentacao.genruntimeconfig.cache
+/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/Debug/net8.0/ref/SintaxeEIdentacao.dll

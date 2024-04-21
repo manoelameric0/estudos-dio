@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\SintaxeEIdentaçao\\SintaxeEIdentaçao.csproj": {}
+    "/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/SintaxeEIdentacao.csproj": {}
   },
   "projects": {
-    "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\SintaxeEIdentaçao\\SintaxeEIdentaçao.csproj": {
+    "/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/SintaxeEIdentacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\SintaxeEIdentaçao\\SintaxeEIdentaçao.csproj",
-        "projectName": "SintaxeEIdentaçao",
-        "projectPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\SintaxeEIdentaçao\\SintaxeEIdentaçao.csproj",
-        "packagesPath": "C:\\Users\\082Mcz\\.nuget\\packages\\",
-        "outputPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\SintaxeEIdentaçao\\obj\\",
+        "projectUniqueName": "/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/SintaxeEIdentacao.csproj",
+        "projectName": "SintaxeEIdentacao",
+        "projectPath": "/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/SintaxeEIdentacao.csproj",
+        "packagesPath": "/home/manoelameric0/.nuget/packages/",
+        "outputPath": "/home/manoelameric0/Documentos/GitHub/estudos-dio/dotnet/SintaxeEIdentacao/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\082Mcz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/manoelameric0/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
