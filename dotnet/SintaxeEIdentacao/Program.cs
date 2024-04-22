@@ -1,7 +1,22 @@
-﻿using SintaxeEIdentaçao.Models;
+﻿// using SintaxeEIdentaçao.Models;
 
-DateTime dataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtual.ToString("dd/M/yyyy HH:mm"));
+
+int a = 10;
+int b = 20;
+
+int c = a + b;
+
+c *= 5;
+
+Console.WriteLine(c);
+
+
+
+
+
+
+// DateTime dataAtual = DateTime.Now.AddDays(5);
+// Console.WriteLine(dataAtual.ToString("dd/M/yyyy HH:mm"));
 
 
 // string apresentacao = "Olá, seja bem vindo";
