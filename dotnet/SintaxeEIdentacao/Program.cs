@@ -1,21 +1,30 @@
 ﻿using SintaxeEIdentaçao.Models;
 
-string apresentacao = "Olá, seja bem vindo";
+DateTime dataAtual = DateTime.Now.AddDays(5);
+Console.WriteLine(dataAtual.ToString("dd/M/yyyy HH:mm"));
 
-int quantidade = 1;
-quantidade = 10;
 
-double altura = 1.70;
+// string apresentacao = "Olá, seja bem vindo";
 
-decimal preco = 1.80M;
+// int quantidade = 1;
+// Console.WriteLine("Valor da variável quantidade: " + quantidade);
 
-bool condicao = true;
+// quantidade = 10;
+// Console.WriteLine("Valor da variável quantidade: " + quantidade);
 
-Console.WriteLine(apresentacao);
-Console.WriteLine("Valor da variável quantidade: " + quantidade);
-Console.WriteLine("Valor da variável altura: " + altura.ToString("0.00"));
-Console.WriteLine("Valor da variável preço: " + preco);
-Console.WriteLine("Valor da varável condição: " + condicao);
+
+
+// double altura = 1.70;
+
+// decimal preco = 1.80M;
+
+// bool condicao = true;
+
+// Console.WriteLine(apresentacao);
+// Console.WriteLine("Valor da variável quantidade: " + quantidade);
+// Console.WriteLine("Valor da variável altura: " + altura.ToString("0.00"));
+// Console.WriteLine("Valor da variável preço: " + preco);
+// Console.WriteLine("Valor da varável condição: " + condicao);
 
 
 
