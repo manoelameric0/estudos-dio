@@ -1,16 +1,77 @@
 ﻿// using SintaxeEIdentaçao.Models;
 
 
-int a = 10;
-int b = 20;
+// int a = 5;
+// double b = a;
 
-int c = a + b;
+// long a = long.MaxValue;
+// int b = Convert.ToInt32(a);
 
-c *= 5;
+int a = int.MaxValue;
+long b = a;
 
-Console.WriteLine(c);
+
+Console.WriteLine(b);
 
 
+
+
+
+
+
+
+
+
+
+
+
+// int inteiro = 5;
+// string a = inteiro.ToString();
+
+// Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//Cast - casting
+//int a = Convert.ToInt32(null);
+//int a = int.Parse(null);
+
+//Console.WriteLine(a);
+
+
+
+
+
+
+
+
+
+
+
+
+// int a = 10;
+// int b = 20;
+
+// int c = a + b;
+
+// c *= 5;
+
+// Console.WriteLine(c);
 
 
 
