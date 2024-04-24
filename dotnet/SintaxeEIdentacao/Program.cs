@@ -1,8 +1,34 @@
 ﻿ using SintaxeEIdentaçao.Models;
+using SintaxeEIdentacao.Models;
 
 
+Calculadora calc = new Calculadora();
+
+// calc.Somar(10, 30);
+// calc.Subtrair(10, 50);
+// calc.Multiplicar(15, 45);
+// calc.Dividir(2, 2);
+//calc.Potencia(3, 3);
+// calc.Seno(30);
+// calc.Coseno(30);
+// calc.Tangente(30);
+calc.RaizQuadrada(9);
 
 
+// int numeroIncremento = 10;
+
+// Console.WriteLine(numeroIncremento);
+
+// Console.WriteLine("Incrementando o 10");
+// //numero += 1;
+// numeroIncremento++;
+
+// int numeroDecremento = 20;
+// Console.WriteLine("Decrementando o 20");
+// //numero += 1;
+// numeroDecremento--;
+
+// Console.WriteLine(numeroDecremento);
 
 
 
