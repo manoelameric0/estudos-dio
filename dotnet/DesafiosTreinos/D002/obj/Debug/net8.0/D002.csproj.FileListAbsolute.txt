@@ -1,0 +1,15 @@
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\bin\Debug\net8.0\D002.exe
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\bin\Debug\net8.0\D002.deps.json
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\bin\Debug\net8.0\D002.runtimeconfig.json
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\bin\Debug\net8.0\D002.dll
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\bin\Debug\net8.0\D002.pdb
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.GeneratedMSBuildEditorConfig.editorconfig
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.AssemblyInfoInputs.cache
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.AssemblyInfo.cs
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.csproj.CoreCompileInputs.cache
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.sourcelink.json
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.dll
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\refint\D002.dll
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.pdb
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\D002.genruntimeconfig.cache
+B:\Desktop\MD\estudos-dio\dotnet\DesafiosTreinos\D002\obj\Debug\net8.0\ref\D002.dll
