@@ -1,19 +1,81 @@
 ﻿using SintaxeEIdentaçao.Models;
 
 
-int soma = 0, numero = 0;
+string opcao;
+bool exibirMenu = true ;
 
-do
+while (exibirMenu)
 {
-    Console.WriteLine("Soma dos Números (Digite 0 para Finalizar");
-    Console.Write("Digite um número: ");
-    numero = Convert.ToInt32(Console.ReadLine());
+    Console.Clear();
+    Console.WriteLine("Digita a sua opção: ");
+    Console.WriteLine("1 - Cadastrar Cliente");
+    Console.WriteLine("2 - Buscar Cliente");
+    Console.WriteLine("3 - Apagar Cliente");
+    Console.WriteLine("4 - Encerrar ");
 
-    soma += numero;
+    opcao = Console.ReadLine();
 
-} while (numero != 0);
+    switch (opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadastro de Cliente");
+            break;
+            
+         case "2":
+            Console.WriteLine("Busca de Cliente");
+            break;
 
-Console.WriteLine($"Total da soma dos números digitados é: {soma}");
+         case "3":
+            Console.WriteLine("Apagar Cliente");
+            break;
+
+         case "4":
+            Console.WriteLine("Encerrar");
+            exibirMenu = false;
+            //Environment.Exit(0);
+            break;
+    
+    default:
+        Console.WriteLine("Opção Inválida");
+        break;
+    }
+};
+
+Console.WriteLine("sla");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int soma = 0, numero = 0;
+
+// do
+// {
+//     Console.WriteLine("Soma dos Números (Digite 0 para Finalizar)");
+//     Console.Write("Digite um número: ");
+    
+
+//     soma += numero;
+
+// } while (numero != 0);
+
+// Console.WriteLine($"Total da soma dos números digitados é: {soma}");
 
 
 
