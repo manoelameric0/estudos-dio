@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "b:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj": {}
+    "B:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj": {}
   },
   "projects": {
-    "b:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj": {
+    "B:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj",
+        "projectUniqueName": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj",
         "projectName": "D001",
-        "projectPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj",
+        "projectPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\D001.csproj",
         "packagesPath": "C:\\Users\\MD\\.nuget\\packages\\",
-        "outputPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\obj\\",
+        "outputPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\DesafiosTreinos\\D001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MD\\AppData\\Roaming\\NuGet\\NuGet.Config"
