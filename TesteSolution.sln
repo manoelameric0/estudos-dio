@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet", "dotnet", "{B9E482FF-C745-49AA-846B-33AABE37651F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxeEIdentacao", "dotnet\SintaxeEIdentacao\SintaxeEIdentacao.csproj", "{56517A01-F3E1-4E44-AEFD-F6BFC451E860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E76E58B-A9D2-42C1-B78B-177BA8FF2E7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E76E58B-A9D2-42C1-B78B-177BA8FF2E7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E76E58B-A9D2-42C1-B78B-177BA8FF2E7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E76E58B-A9D2-42C1-B78B-177BA8FF2E7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56517A01-F3E1-4E44-AEFD-F6BFC451E860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56517A01-F3E1-4E44-AEFD-F6BFC451E860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56517A01-F3E1-4E44-AEFD-F6BFC451E860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56517A01-F3E1-4E44-AEFD-F6BFC451E860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56517A01-F3E1-4E44-AEFD-F6BFC451E860} = {B9E482FF-C745-49AA-846B-33AABE37651F}
+	EndGlobalSection
+EndGlobal
