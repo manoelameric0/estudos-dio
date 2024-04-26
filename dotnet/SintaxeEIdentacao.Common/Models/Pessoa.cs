@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SintaxeEIdentaçao.Models
+namespace SintaxeEIdentacao.Common.Models
 {
     public class Pessoa
     {

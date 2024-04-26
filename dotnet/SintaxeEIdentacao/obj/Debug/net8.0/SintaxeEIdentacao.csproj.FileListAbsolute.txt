@@ -28,3 +28,7 @@ B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\obj\Debug\net8.0\refint\Sinta
 B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\obj\Debug\net8.0\SintaxeEIdentacao.pdb
 B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\obj\Debug\net8.0\SintaxeEIdentacao.genruntimeconfig.cache
 B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\obj\Debug\net8.0\ref\SintaxeEIdentacao.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\bin\Debug\net8.0\SintaxeEIdentacao.Common.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\bin\Debug\net8.0\SintaxeEIdentacao.Common.pdb
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\obj\Debug\net8.0\SintaxeEIdentacao.csproj.AssemblyReference.cache
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao\obj\Debug\net8.0\SintaxeE.3FE99DD1.Up2Date

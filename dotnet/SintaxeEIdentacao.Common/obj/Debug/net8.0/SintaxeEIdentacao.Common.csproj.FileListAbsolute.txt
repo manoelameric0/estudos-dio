@@ -1,0 +1,12 @@
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\bin\Debug\net8.0\SintaxeEIdentacao.Common.deps.json
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\bin\Debug\net8.0\SintaxeEIdentacao.Common.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\bin\Debug\net8.0\SintaxeEIdentacao.Common.pdb
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.GeneratedMSBuildEditorConfig.editorconfig
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.AssemblyInfoInputs.cache
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.AssemblyInfo.cs
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.csproj.CoreCompileInputs.cache
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.sourcelink.json
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\refint\SintaxeEIdentacao.Common.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\SintaxeEIdentacao.Common.pdb
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeEIdentacao.Common\obj\Debug\net8.0\ref\SintaxeEIdentacao.Common.dll

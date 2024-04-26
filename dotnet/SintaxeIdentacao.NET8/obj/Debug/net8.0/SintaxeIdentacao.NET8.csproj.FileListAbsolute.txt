@@ -1,0 +1,15 @@
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\bin\Debug\net8.0\SintaxeIdentacao.NET8.exe
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\bin\Debug\net8.0\SintaxeIdentacao.NET8.deps.json
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\bin\Debug\net8.0\SintaxeIdentacao.NET8.runtimeconfig.json
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\bin\Debug\net8.0\SintaxeIdentacao.NET8.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\bin\Debug\net8.0\SintaxeIdentacao.NET8.pdb
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.GeneratedMSBuildEditorConfig.editorconfig
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.AssemblyInfoInputs.cache
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.AssemblyInfo.cs
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.csproj.CoreCompileInputs.cache
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.sourcelink.json
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\refint\SintaxeIdentacao.NET8.dll
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.pdb
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\SintaxeIdentacao.NET8.genruntimeconfig.cache
+B:\Desktop\MD\estudos-dio\dotnet\SintaxeIdentacao.NET8\obj\Debug\net8.0\ref\SintaxeIdentacao.NET8.dll

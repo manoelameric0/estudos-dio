@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj": {}
+    "B:\\Desktop\\MD\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj": {}
   },
   "projects": {
-    "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj": {
+    "B:\\Desktop\\MD\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj",
+        "projectUniqueName": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj",
         "projectName": "ExemplosEFundamentos",
-        "projectPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj",
-        "packagesPath": "C:\\Users\\082Mcz\\.nuget\\packages\\",
-        "outputPath": "B:\\Documents\\estudos DIO - com git\\estudos-dio\\dotnet\\ExemplosEFundamentos\\obj\\",
+        "projectPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\ExemplosEFundamentos\\ExemplosEFundamentos.csproj",
+        "packagesPath": "C:\\Users\\MD\\.nuget\\packages\\",
+        "outputPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\ExemplosEFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\082Mcz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MD\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
