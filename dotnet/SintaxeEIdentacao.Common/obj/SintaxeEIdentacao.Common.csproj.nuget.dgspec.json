@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {}
+    "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {}
   },
   "projects": {
-    "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {
+    "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj",
+        "projectUniqueName": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj",
         "projectName": "SintaxeEIdentacao.Common",
-        "projectPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj",
+        "projectPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj",
         "packagesPath": "C:\\Users\\MD\\.nuget\\packages\\",
-        "outputPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\obj\\",
+        "outputPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MD\\AppData\\Roaming\\NuGet\\NuGet.Config"

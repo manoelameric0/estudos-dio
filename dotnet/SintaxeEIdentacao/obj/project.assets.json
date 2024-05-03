@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {
-              "projectPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj"
+            "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {
+              "projectPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj"
             }
           }
         }
