@@ -1,13 +1,14 @@
 ﻿using D001.Models;
-contarLetras contaLetra = new contarLetras();
 
 Console.Write("Digite uma frase: ");
 string frase = Console.ReadLine();
 
 Console.Write("Digite a letra que deseja contar: ");
 char letra = Console.ReadKey().KeyChar;
+Console.WriteLine();
 
-int contagem = contaLetra.contadorLetras(contaLetra.frase, contaLetra.letra);
+contarLetras contaLetra = new contarLetras(frase, letra);
+int contagem = contaLetra.ContadorDeLetras();
 
-Console.WriteLine($"\nA Letra {letra} apareceu {contagem} vezes na frase.");
+Console.WriteLine($"A Letra {letra} apareceu {contagem} vezes na frase.");
 

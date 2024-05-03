@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxeEIdentacao", "Sintax
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SintaxeEIdentacao.Common", "SintaxeEIdentacao.Common\SintaxeEIdentacao.Common.csproj", "{44A71B1F-3D28-4D8D-AF09-30613E2B02D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploExplorando", "ExemploExplorando\ExemploExplorando.csproj", "{4B5F9193-7B11-4E7A-BBE4-5322D5AA88E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D003", "DesafiosTreinos\D003\D003.csproj", "{EFFB42C3-E55C-4E17-A66B-550367688FF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,9 +56,18 @@ Global
 		{44A71B1F-3D28-4D8D-AF09-30613E2B02D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44A71B1F-3D28-4D8D-AF09-30613E2B02D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44A71B1F-3D28-4D8D-AF09-30613E2B02D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5F9193-7B11-4E7A-BBE4-5322D5AA88E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5F9193-7B11-4E7A-BBE4-5322D5AA88E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5F9193-7B11-4E7A-BBE4-5322D5AA88E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5F9193-7B11-4E7A-BBE4-5322D5AA88E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFB42C3-E55C-4E17-A66B-550367688FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFB42C3-E55C-4E17-A66B-550367688FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFB42C3-E55C-4E17-A66B-550367688FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFB42C3-E55C-4E17-A66B-550367688FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{833626F7-AC72-48B7-9CFD-A2892AA1DE98} = {F1030154-BF35-4B2E-BF64-DE9B4E6CDA48}
 		{20C7C5B0-117C-4E69-B475-49338E767B0D} = {F1030154-BF35-4B2E-BF64-DE9B4E6CDA48}
+		{EFFB42C3-E55C-4E17-A66B-550367688FF1} = {F1030154-BF35-4B2E-BF64-DE9B4E6CDA48}
 	EndGlobalSection
 EndGlobal

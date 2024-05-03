@@ -7,20 +7,26 @@ namespace D001.Models
 {
     public class contarLetras
     {
-        public string frase { get; set; }
-        public char letra { get; set; }
-        public int contadorLetras(string frase, char letra)
-        {
-            int contagem = 0;
+       public string frase { get;  }
+       public char letra { get;  }
 
-            foreach (char caracters in frase)
+       public contarLetras(string frase, char letra)
+       {
+            frase = frase;
+            letra = letra;
+       }
+
+       public int ContadorDeLetras()
+       {
+            int contagem = 0;
+            foreach (char c in frase)
             {
-                if (char.ToLower(caracters) == char.ToLower(letra))
+                if (char.ToLower(c) == char.ToLower(letra))
                 {
                     contagem++;
-                }
+                }  
             }
-            return contagem;
-        }
-    }
+            return contagem; 
+       }
+     }
 }
