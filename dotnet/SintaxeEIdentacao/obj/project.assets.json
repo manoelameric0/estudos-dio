@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao\\SintaxeEIdentacao.csproj",
+      "projectUniqueName": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao\\SintaxeEIdentacao.csproj",
       "projectName": "SintaxeEIdentacao",
-      "projectPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao\\SintaxeEIdentacao.csproj",
+      "projectPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao\\SintaxeEIdentacao.csproj",
       "packagesPath": "C:\\Users\\MD\\.nuget\\packages\\",
-      "outputPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao\\obj\\",
+      "outputPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MD\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {
-              "projectPath": "b:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj"
+            "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj": {
+              "projectPath": "B:\\Desktop\\MD\\estudos-dio\\dotnet\\SintaxeEIdentacao.Common\\SintaxeEIdentacao.Common.csproj"
             }
           }
         }
